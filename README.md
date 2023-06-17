@@ -27,4 +27,4 @@ To learn Salesforce, check out the [Trailhead Salesforce ](https://trailhead.sal
 Give a ⭐ if you like this project!
 
 ## Feactures
-- You can search any thing with the help of input text box, and after that result is showing and you can play videos, stop videos, etc accourding to you need.
+- You can search any thing with the help of input text box, and after that result is showing and you can play videos / music, stop, forwards ...etc accourding to you need within Your Salesforce Org..
